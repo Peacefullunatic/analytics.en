@@ -29,25 +29,25 @@ Use the following guidelines to determine how far in advance you must submit a t
  </thead>
  <tbody>
   <tr>
-   <td colname="col1"> Up to 1,000,000 </td>
+   <td colname="col1"> Up to 2,500,000 </td>
    <td colname="col2"> No lead time needed </td>
    <td colname="col3"> No lead time needed </td>
   </tr>
   <tr>
-   <td colname="col1"> 1,000,000 - 5,000,000 </td>
+   <td colname="col1"> 2,500,000 - 10,000,000 </td>
    <td colname="col2"> Two BUSINESS days </td>
    <td colname="col3" morerows="3"> All traffic increases targeted for November-December should be submitted by September 1. This is to allow time to purchase capacity if necessary to accommodate holiday traffic. </td>
   </tr>
   <tr>
-   <td colname="col1"> 5,000,000 - 10,000,000 </td>
+   <td colname="col1"> 10,000,000 - 100,000,000 </td>
    <td colname="col2"> One calendar week </td>
   </tr>
   <tr>
-   <td colname="col1"> 10,000,000 - 25,000,000 </td>
+   <td colname="col1"> 100,000,000 - 500,000,000 </td>
    <td colname="col2"> Two calendar weeks </td>
   </tr>
   <tr>
-   <td colname="col1"> <p>Above 25,000,000 </p> </td>
+   <td colname="col1"> <p>Above 500,000,000 </p> </td>
    <td colname="col2"> One or more months </td>
   </tr>
  </tbody>
