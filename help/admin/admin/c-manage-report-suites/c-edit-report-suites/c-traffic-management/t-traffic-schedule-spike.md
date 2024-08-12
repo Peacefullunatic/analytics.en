@@ -55,6 +55,6 @@ When customers notify Adobe of traffic spikes for each report suite, Adobe does 
 
 Adobe wants to make sure that your experience with up-to-date reporting is consistent. To do this task most effectively, Adobe highly recommends the following:
 
-* Schedule lead time for all traffic spikes. **It is especially important that any traffic spikes anticipated in the months of November-December are scheduled by September 15**. If you miss the deadline, schedule your spike as soon as possible. Less lead time is better than none, and Adobe works with the current resources to best accommodate your report suites.
+* Schedule lead time for all traffic spikes. **It is especially important that any traffic spikes anticipated in the months of mid-October thru December are scheduled by October 1st**. If you miss the deadline, schedule your spike as soon as possible. Less lead time is better than none, and Adobe works with the current resources to best accommodate your report suites.
 * If Adobe contacts you regarding a scheduled traffic spike, be sure to communicate if real-time reporting or full processing reporting is more important. Some organizations rely on Real-Time reporting more than others. Understanding which type of reporting you use can help Adobe prioritize accordingly.
 * Communicating with your Adobe Account Team the most important reports and when you pull them can help them advocate for you.
